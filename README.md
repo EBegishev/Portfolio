@@ -25,7 +25,7 @@ Thank you for taking the time to look through my work. This repository is a home
 
 <div align="center">
 
-### 👉 [**Open the Short Portfolio (PDF)**](./Portfolio_EBegishev.pdf) 👈
+### 👉 [**My Short Portfolio (PDF)**](./Portfolio_EBegishev.pdf) 👈
 
 *A short overview of my selected projects, lab work, and coursework.*
 
